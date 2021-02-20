@@ -16,17 +16,17 @@ You're sections headers will be used to reference location of destinations.
 
 #### Orignal Images
 
-<img src="https://github.com/Tarun-yadav777/Image_Blending/blob/main/static/apple.jpg"  width="200" height="400" />
-![Project Image](static/apple.jpg = 250x250)<br>
-![Project Image](static/orange.jpg)<br>
+<img src="https://github.com/Tarun-yadav777/Image_Blending/blob/main/static/apple.jpg"  width="250" height="250" /><br>
+<img src="https://github.com/Tarun-yadav777/Image_Blending/blob/main/static/orange.jpg"  width="250" height="250" /><br>
+
 
 #### Concated Images
 
-![Project Image](static/concat.PNG)<br>
+<img src="https://github.com/Tarun-yadav777/Image_Blending/blob/main/static/concat.PNG"  width="250" height="250" /><br>
 
 #### Blended Images
 
-![Project Image](static/blend.PNG)<br>
+!<img src="https://github.com/Tarun-yadav777/Image_Blending/blob/main/static/blend.PNG"  width="250" height="250" /><br>
 
 ---
 
