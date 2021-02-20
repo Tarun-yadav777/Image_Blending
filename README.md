@@ -16,6 +16,7 @@ You're sections headers will be used to reference location of destinations.
 
 #### Orignal Images
 
+<img src="https://github.com/Tarun-yadav777/Image_Blending/blob/main/static/apple.jpg"  width="200" height="400" />
 ![Project Image](static/apple.jpg = 250x250)<br>
 ![Project Image](static/orange.jpg)<br>
 
