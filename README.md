@@ -14,12 +14,12 @@ You're sections headers will be used to reference location of destinations.
 
 ### Demo
 
-####Orignal Images
+###Orignal Images
 ![Project Image](static/apple.jpg)<br>
 ![Project Image](static/orange.jpg)<br>
-####Concated Images
+###Concated Images
 ![Project Image](static/concat.PNG)<br>
-####Blended Images
+###Blended Images
 ![Project Image](static/blend.PNG)<br>
 
 ---
