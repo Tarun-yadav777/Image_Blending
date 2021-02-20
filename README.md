@@ -16,7 +16,7 @@ You're sections headers will be used to reference location of destinations.
 
 #### Orignal Images
 
-![Project Image](static/apple.jpg)<br>
+![Project Image](static/apple.jpg = 250x250)<br>
 ![Project Image](static/orange.jpg)<br>
 
 #### Concated Images
