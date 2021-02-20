@@ -14,13 +14,12 @@ You're sections headers will be used to reference location of destinations.
 
 ### Demo
 
-
-![alt tag](https://github.com/Tarun-yadav777/Image_Blending/blob/main/static/apple.jpg)<br>
+####Orignal Images
 ![Project Image](static/apple.jpg)<br>
 ![Project Image](static/orange.jpg)<br>
-<h3>Concatinated Pictures</h3>
+####Concated Images
 ![Project Image](static/concat.PNG)<br>
-<h3>Blended Pictures</h3>
+####Blended Images
 ![Project Image](static/blend.PNG)<br>
 
 ---
