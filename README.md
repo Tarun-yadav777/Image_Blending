@@ -2,7 +2,7 @@
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
+You're sections headers will be used to reference location of destinations.
 
 - [Demo](#demo)
 - [Overview](#overview)
