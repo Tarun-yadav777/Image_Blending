@@ -15,6 +15,7 @@ You're sections headers will be used to reference location of destinations.
 ### Demo
 
 <h3>Orignal Pictures</h3>
+![alt text](https://github.com/Tarun-yadav777/Image_Blending/blob/main/static/apple.jpg)
 ![Project Image](static/apple.jpg)<br>
 ![Project Image](static/orange.jpg)<br>
 <h3>Concatinated Pictures</h3>
