@@ -15,12 +15,12 @@ You're sections headers will be used to reference location of destinations.
 ### Demo
 
 <h3>Orignal Pictures</h3>
-![Project Image](static/apple.jpg)
-![Project Image](static/orange.jpg)
+![Project Image](static/apple.jpg)<br>
+![Project Image](static/orange.jpg)<br>
 <h3>Concatinated Pictures</h3>
-![Project Image](static/concat.PNG)
+![Project Image](static/concat.PNG)<br>
 <h3>Blended Pictures</h3>
-![Project Image](static/blend.PNG)
+![Project Image](static/blend.PNG)<br>
 
 ---
 
